@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **FULL Stack WEB Development.**
 
-- ☁️ I've keen interest in frontend So,I'm learning **VUE**
+- ☁️ I've keen in frontend So,I'm learning **VUE**
 
 - 📫 Feel free to reach me out **pedromonfort075@gmail.com**
 <!--Intro end-->  
