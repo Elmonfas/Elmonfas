@@ -37,6 +37,7 @@
 
 <img align="center" height="540px" alt="GIF" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" />
 <!--h1 without bottom border-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -48,6 +49,7 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,figma,github,html,js,linux,mysql,nextjs,nodejs,py,react,tailwind,vue,vscode&perline=14" />
   </a>
 </p>
+
 
 
 <!-- Connect with me -->
@@ -68,13 +70,20 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
+
   
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 PEDRO MONFORT CARO
 Last Edited on: 13/12/2023
